@@ -42,8 +42,8 @@ git checkout -b username
 ### Step 4: Add Your Contribution
 
 1. Within the repository, find the directory corresponding to the desired language (e.g., `c`, `python`, `java`).
-2. Create a new folder with a descriptive name that represents the problem you're contributing.
-3. Inside the folder, include your coding question as comments at the start of the code file. Clearly state the problem statement and any relevant details.
+2. Create a new file with a descriptive name that represents the problem you're contributing.
+3. In the file, include your coding question as comments at the start of the code file. Clearly state the problem statement and any relevant details.
 4. Provide a solution to the problem in the chosen programming language. Write organized and well-documented code.
 5. Comment your code thoroughly, explaining each step of your solution. This helps others understand your thought process.
 
