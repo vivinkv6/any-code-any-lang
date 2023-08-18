@@ -19,6 +19,7 @@ int main() {
     
     res=factorial(n); // Call the factorial function to calculate the factorial of 'n'
     
+    
     cout<<"Factorial of "<<n<<":"<<res;
 
     return 0;
