@@ -31,7 +31,16 @@ Navigate to the project directory:
 cd any-code-any-lang
 ```
 
-### Step 3: Create a New Branch
+### Step 3: Folder Structure
+
+Inside the repository, you'll find a well-structured folder hierarchy:
+<br>
+Each programming language (e.g., c, python) has its own folder.
+<br>
+Inside each language folder, you'll find three subfolders: easy, medium, and hard, representing different levels of questions.
+
+
+### Step 4: Create a New Branch
 
 Create a new branch for your contribution. The branch name should reflect the language, problem, and your username. For example:
 
@@ -39,7 +48,7 @@ Create a new branch for your contribution. The branch name should reflect the la
 git checkout -b username
 ```
 
-### Step 4: Add Your Contribution
+### Step 5: Add Your Contribution
 
 1. Within the repository, find the directory corresponding to the desired language (e.g., `c`, `python`, `java`).
 2. Create a new file with a descriptive name that represents the problem you're contributing.
@@ -47,7 +56,7 @@ git checkout -b username
 4. Provide a solution to the problem in the chosen programming language. Write organized and well-documented code.
 5. Comment your code thoroughly, explaining each step of your solution. This helps others understand your thought process.
 
-### Step 5: Commit and Push
+### Step 6: Commit and Push
 
 After you've added your contribution, commit your changes and push them to your branch:
 
@@ -57,7 +66,7 @@ git commit -m "Added [Language]: [Brief problem description]"
 git push origin username
 ```
 
-### Step 6: Create a Pull Request
+### Step 7: Create a Pull Request
 
 1. Go to the [main repository](https://github.com/vivinkv6/any-code-any-lang).
 2. Click on the "Pull Requests" tab.
