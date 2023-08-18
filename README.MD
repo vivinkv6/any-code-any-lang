@@ -22,7 +22,7 @@ Start by forking the main repository using the "Fork" button at the top-right co
 Clone your forked repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/any-code-any-lang.git
+git clone https://github.com/vivinkv6/any-code-any-lang.git
 ```
 
 Navigate to the project directory:
